@@ -1,2 +1,2 @@
-# R3-Chain
+# decentralized-solar-energy
 Decentralized Solar Energy Project
